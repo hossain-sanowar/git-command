@@ -29,3 +29,17 @@ git push --set-upstream origin main
 ```
 git push origin --delete master
 ```
+# git status
+```
+git init
+git log
+git branch
+git brach -D <file_name> #delete branch file
+git pull <repository>
+git push origin main
+git commit -m "salary prediction"
+git add .
+git push --force origin main
+git push -u origin main
+```
+```
