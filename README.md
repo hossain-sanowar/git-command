@@ -42,4 +42,3 @@ git add .
 git push --force origin main
 git push -u origin main
 ```
-```
