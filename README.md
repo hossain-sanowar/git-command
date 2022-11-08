@@ -1,2 +1,31 @@
 # git-command
 this is CLI command
+# github-cli-test
+
+1. …or create a new repository on the command line
+```
+echo "# git_cli_test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:hossain-sanowar/git_cli_test.git
+git push -u origin main
+```
+2. …or push an existing repository from the command line
+
+```
+git remote add origin git@github.com:hossain-sanowar/git_cli_test.git
+git branch -M main
+git push -u origin main
+```
+
+## push branch to main
+```
+git branch --move master main
+git push --set-upstream origin main
+```
+## remove branch 
+```
+git push origin --delete master
+```
