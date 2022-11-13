@@ -1,5 +1,8 @@
 # git-command
 this is CLI command
+# git documents
+
+https://git-scm.com/
 # github-cli-test
 
 1. …or create a new repository on the command line
