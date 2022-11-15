@@ -51,3 +51,16 @@ git pull origin main
 ```
 ## current change and incoming change
 `remove conflict message, then push again`
+
+### check the branch
+```
+git checkout branch
+git branch stage
+git checkout stage
+git status
+git add .
+git commit -m "message"
+git push origin stage #here stage is branch name
+
+
+
