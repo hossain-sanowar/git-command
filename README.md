@@ -50,3 +50,4 @@ git push -u origin main
 git pull origin main
 ```
 ## current change and incoming change
+`remove conflict message, then push again`
