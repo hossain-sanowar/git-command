@@ -45,3 +45,8 @@ git add .
 git push --force origin main
 git push -u origin main
 ```
+## get commit 1 command ahead, then what should we do?
+```
+git pull origin main
+```
+## current change and incoming change
